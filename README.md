@@ -96,13 +96,14 @@ How it works?
 * [x] build a neat README
 * [ ] consider using DOSBOX, make program available for different platforms
 * [ ] add another event for erasing
+* [ ] fix Bug [0001]
 
 
 
 ---
 
 ## Bugs
-* Fix discontinuity in drawing (make it seamless)
+* Bug [0001] discontinuity in drawing (make it seamless)
 
 ---
 
