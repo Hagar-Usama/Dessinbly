@@ -76,13 +76,15 @@ I am Linux user, how can I run it?
 
 ![Little-Bird][26]
 
-[26]:link
+[26]:https://github.com/Hagar-Usama/Dessinbly/blob/master/Screenshots/Dessinbly.gif
 
 ---
 
 ## Contributing
 > See 👉  [CONTRIBUTING.md][27]
-[27]:link
+
+[27]:https://github.com/Hagar-Usama/Dessinbly/blob/master/CONTRIBUTING.md
+
 ---
 ## To-do List
 * [x] build a neat README
