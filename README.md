@@ -1,4 +1,4 @@
-# Dessinbly 👾
+# Dessinbly 🎨
 
 
 Let's draw, the assembly way!
@@ -70,6 +70,12 @@ The project is implemented in Assembly for Intel 8086/8088 architecture, with EM
 I am Linux user, how can I run it?
 > You're most welcome. See to-do list
 
+How it works?
+> Use **left click** to drawing <br>
+> Use **right click** for changing the color <br>
+
+
+
 
 ---
 ## Screenshots
@@ -89,6 +95,8 @@ I am Linux user, how can I run it?
 ## To-do List
 * [x] build a neat README
 * [ ] consider using DOSBOX, make program available for different platforms
+* [ ] add another event for erasing
+
 
 
 ---
