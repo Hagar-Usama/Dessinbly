@@ -71,8 +71,8 @@ I am Linux user, how can I run it?
 > You're most welcome. See to-do list
 
 How it works?
-> Use **left click** to drawing <br>
-> Use **right click** for changing the color <br>
+> Use **left click** to draw <br>
+> Use **right click** to change the color <br>
 
 
 
