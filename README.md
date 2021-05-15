@@ -108,6 +108,6 @@ How it works?
 ---
 
 ## License
-![License](http://img.shields.io/:License-MIT-blue.svg?style=round-square)
+![License](http://img.shields.io/:License-GPL3-blue.svg?style=round-square)
 
-[MIT License](https://opensource.org/licenses/MIT "MIT")
+[GPL3 License](https://opensource.org/licenses/GPL-3.0 "GPL3")
